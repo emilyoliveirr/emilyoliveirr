@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Emily Oliveira and I'm a Web Development student, from Brazil.</p>
+<p align="left">My name is Emily Oliveira and I'm a Data Analysis student, from Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024.<br>📚 I'm currently learning HTML, CSS and Javascript.<br>🎯 Goals: To be a great and successful web developer.<br>🌍 Languages: English, Portuguese and Spanish.<br>🎲 Fun fact: Watching movies and going out with my friends is one of my favourite things to do.</p>
+<p align="left">✨ Creating bugs since 2024.<br>📚 I'm currently learning Python, SQL and PowerBI.<br>🎯 Goals: To be a great and successful web developer.<br>🌍 Languages: English, Portuguese and Spanish.<br>🎲 Fun fact: Watching movies and going out with my friends is one of my favourite things to do.</p>
 
 ###
 
